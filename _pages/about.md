@@ -42,7 +42,7 @@ Welcome to our new Team member [Sanket Patil](https://vicidominilab.github.io/te
 * September 11th - 15th, 2023, [EOS Annual Meeting 2023](https://www.europeanoptics.org/events/eos/eosam2023.html)
 <h2>The Laboratory</h2>
 <body align="justify">
-We're based at the Center for Human Technology at the [Istituto Italiano di Tecnologia](https://iit.it).
+We're based at the Center for Cell Signaling and Synthetic Innovation at the [Guangzhou university](https://www.gzhu.edu.cn/).
   
 
   
