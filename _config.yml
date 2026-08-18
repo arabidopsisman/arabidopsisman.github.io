@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vicidomini Lab"
+title                    : "Xu Lab"
 title2                    : "Start page"
 title_separator          : "-"
-name                     : &name "Giuseppe Vicidomini's Lab"
-description              : &description "Molecular Microscopy and Spectroscopy"
+name                     : &name "Xu Ke's Lab"
+description              : &description "We focus on interesting phenomena in plant science."
 url                      : https://VicidominiLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -75,7 +75,7 @@ social:
 
 # Site Author
 author:
-  name             : "Giuseppe Vicidomini"
+  name             : "Xu Ke"
   avatar           : "https://VicidominiLab.github.io/images/GV.jpg"
   bio              : "Senior Reseracher Tenured, Principal Investigator"
   location         : "Genoa, IT"
