@@ -26,7 +26,7 @@ This goal can be achieved only by working across many disciplines, from physics 
 
 <h2>Last News</h2>
 <body align="justify">
-Welcome to our [Team](https://arabidopsisman.github.io/).
+Welcome to our [Team](https://arabidopsisman.github.io/)！
 <h2>Where To Meet Us</h2>
 <body align="justify">
 
