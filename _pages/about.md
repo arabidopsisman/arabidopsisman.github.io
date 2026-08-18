@@ -16,7 +16,8 @@ image_sliders:
 
 <h2>Our Goal</h2>
 <body align="justify">
-Optical microscopy is one of the least invasive techniques to visualise biological structure and function – on almost the molecular scale – in living cells and organisms. However, understanding many of the fundamental biological processes relevant to health and disease remain beyond the capabilities of conventional optical microscopy. Our aim is to design and develop cutting-edge microscopy and analytical tools that allow the biologists to peer inside living systems with unprecedented spatiotemporal resolutions and ranges, minimal invasivity, and augmented information content. To reach this goal, our projects synergically integrate novel (quantum) photonics technologies, labelling protocols, optical architectures, spectroscopy techniques, and machine learning approaches. Although technology development will always be our focus, we also collaborate with biologists to road-test and refine our tools – and to ensure they enable new biological insights.
+Plants are master chemists and architects of life below ground — yet many of the enzymatic, developmental, and signaling processes that sustain them remain only partially understood.​ Our laboratory uses Arabidopsis thaliana as a model system to investigate three deeply interconnected frontiers of plant biology: the enzymatic catalysis underlying plant secondary metabolism, the developmental principles of root biology, and the cellular signaling pathways of brassinosteroids (BRs).
+Our aim is to uncover, at molecular resolution, how specialized enzymes orchestrate the biosynthesis of structurally diverse secondary metabolites, how brassinosteroid signals are perceived, transduced, and translated into developmental outcomes in the root, and how these hormonal and metabolic networks converge to shape root architecture and environmental adaptation. To reach this goal, our projects synergically integrate biochemical enzymology, genetic and physiological approaches, live-cell imaging, hormone profiling, and multi-omics analytics. Although dissecting mechanistic detail will always be our focus, we also collaborate with chemists, computational biologists, and agronomists to validate our discoveries — and to ensure they enable both new biological insights and translational strategies for crop improvement.
   
 <!--- Because of their non-invasive effect on living systems, light microscopy and spectroscopy have been the workhorses for studies of structures and functions at the cellular, sub-cellular and molecular levels for almost a century.
 However, many challenging questions of molecular and cellular biology remain beyond their conventional capabilities. The spatiotemporal resolutions, the labeling, and the contrast methods of conventional microscopy and spectroscopy pose fundamental limits for investigating the smallest and fastest puzzling mysteries of life. Furthermore, the information content potentially encoded in a microscopy or spectroscopy experiement is often lost (because of averaging, for example) or not decoded.
@@ -25,7 +26,7 @@ This goal can be achieved only by working across many disciplines, from physics 
 
 <h2>Last News</h2>
 <body align="justify">
-Welcome to our new Team member [Sanket Patil](https://vicidominilab.github.io/team/SPa/). Trained in biotechnology, he will use his expertises in single-molecule traking and Python to drive our BrightEyes_ERC project to a new level.
+Welcome to our [Team](https://arabidopsisman.github.io/).
 <h2>Where To Meet Us</h2>
 <body align="justify">
 
